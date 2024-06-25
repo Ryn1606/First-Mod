@@ -25,7 +25,7 @@
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
-     "uniques": [ "Can move after attacking", "[+50]% Strength <vs [Sword] units>", "-100% maintenance costs" ],
+     "uniques": [ "Can move after attacking", "[+50]% Strength <vs [Sword] units>", ],
      "promotions": ["Drill I", "March"],
 		"attackSound": "metalhit",
      "civilopediaText": [
@@ -43,8 +43,9 @@
 "rangedStrength": 20,
 "movement": 2,
 "cost": 100,
-"uniques": [ "must set up to ranged attack", "[+1] Sight <when [Fortify]>", "[+30]% Strength <when fighting in [Hill] tiles>", "-100% maintenance costs", "can only attack [Land] units" ],
-"promotions": [ "Ignore Terrain Cost", "Indirect Fire", "Medic I"],
+"uniques": [ "[+1] Sight", "[+30]% Strength <when fighting in [Hill] tiles>" ],
+"promotions": ["Indirect Fire", "Extended Range", "Medic I"],
+"sounds": "shot",
  "civilopediaText": [
 			{"text": " Dungarees-wearing regiments, serve as highly trained volunteer of the nations. "}
 		]
