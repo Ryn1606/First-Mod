@@ -1,5 +1,5 @@
 [
-	{
+	       {
 		"name": "Pioneer",
 		"unitType": "Civilian",
 		"uniqueTo": "Nebesia",
@@ -11,8 +11,8 @@
 			{"text": "Man and woman of nations dedicated themselves to build their homeland."}
 		]
 
-	},
- {
+	      },
+              {
                 "name": "Guerillas",
 		"unitType": "Sword",
                 "uniqueTo": "Nebesia"
@@ -29,5 +29,7 @@
                 "promotions": ["Drill I", "March"],
 		"attackSound": "metalhit",
                 "civilopediaText": [
-			{"text": "Small battle group formed to infiltrate and destroy enemies by shock elements."}
+			{"text": "Small battle group formed to infiltrate and destroy enemies by shock elements."
+			}
      ]
+		      ]
