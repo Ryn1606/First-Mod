@@ -1,5 +1,5 @@
 [
-	       {
+	{
 		"name": "Pioneer",
 		"unitType": "Civilian",
 		"uniqueTo": "Nebesia",
@@ -7,16 +7,16 @@
 		"movement": 3,
 		"uniques": [ "Can build [Land] improvements on tiles", "Automation is primary action" ], 
 		"cost": 20,
-                "civilopediaText": [
+     "civilopediaText": [
 			{"text": "Man and woman of nations dedicated themselves to build their homeland."}
 		]
 
-	      },
-              {
-                "name": "Guerillas",
+	},
+ {
+"name": "Guerillas",
 		"unitType": "Sword",
-                "uniqueTo": "Nebesia"
-                "replaces": "Swordsman"
+     "uniqueTo": "Nebesia"
+     "replaces": "Swordsman"
 		"movement": 4,
 		"strength": 16,
 		"cost": 50,
@@ -25,26 +25,29 @@
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
-                "uniques": ["Can move after attacking", "[+50]% Strength <vs [Sword] units>"],
-                "promotions": ["Drill I", "March"],
+     "uniques": [ "Can move after attacking", "[+50]% Strength <vs [Sword] units>", "-100% maintenance costs" ],
+     "promotions": ["Drill I", "March"],
 		"attackSound": "metalhit",
-                "civilopediaText": [
-			{"text": "Small separated battle group formed to take down enemies by sudden strikes."
-			}
-                 ]
-	      },
-	{
-"name": "Super Dungareed",
-"unitType": "Civilian",
-"uniqueTo": "Nebesia",
-"replaces": "Great Artist",
-"movement": 1,
-"uniques": [ "Great Person - [Culture]", "Unbuildable", "Uncapturable", "Empire enters a [12]-turn Golden Age <by consuming this unit>", "[+50]% Strength bonus for [Military] units within [3] tiles", "All adjacent units heal [+10] HP when healing", "[+30] HP when healing", "Can instantly construct a [Landmark] improvement <by consuming this unit>",
-	"Can generate a large amount of culture"
-]
- "civilopediaText": [
-			{"text": "Choosen one by the Queens and Royal Councils. They were blessed by charm, spreading comforting aura around. Their dungarees sparks in magic. They will always in memories of Nebesians."}
+     "civilopediaText": [
+			{"text": "Small separated battle group formed to take down enemies by sudden strikes."}
 		]
 
-	}
+ },
+{
+"name": "Dungarees Legion",
+"unitType": "Gunpowder",
+"uniqueTo": "Nebesia",
+"replaces": "Great War Infantry",
+"upgradeTo": "Infantry",
+"strength": 25,
+"rangedStrength": 20,
+"movement": 2,
+"cost": 100,
+"uniques": [ "must set up to ranged attack", "[+1] Sight <when [Fortify]>", "[+30]% Strength <when fighting in [Hill] tiles>", "-100% maintenance costs", "can only attack [Land] units" ],
+"promotions": [ "Ignore Terrain Cost", "Indirect Fire", "Medic I"],
+ "civilopediaText": [
+			{"text": " Dungarees-wearing regiments, serve as highly trained volunteer of the nations. "}
+		]
+
+}
 ]
