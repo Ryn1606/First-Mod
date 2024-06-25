@@ -4,11 +4,11 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Nebesia",
 		"replaces": "Worker",
-		"movement": 3,
-		"uniques": ["Can build [Land] improvements on tiles"],
-		"cost": 30
+		"movement": 5,
+		"uniques": [ "Can build [Land] improvements on tiles", "Automation is primary action" ], 
+		"cost": 30,
                 "civilopediaText": [
-			{"text": "Man and woman of nations dedicated themselves to build the nation."}
+			{"text": "Man and woman of nations dedicated themselves to build their homeland."}
 		]
 
 	},
@@ -19,13 +19,15 @@
                 "replaces": "Swordsman"
 		"movement": 4,
 		"strength": 16,
-		"cost": 75,
+		"cost": 70,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-
- },
-]
+                "uniques": ["Can move after attacking", "[+50]% Strength <vs [Sword] units>"],
+                "promotions": ["Drill I", "March"],
+		"attackSound": "metalhit",
+                "civilopediaText": [
+			{"text": "Small battle group formed to infiltrate and destroy enemies by shock elements."}
+     ]
