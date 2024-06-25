@@ -30,7 +30,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,255],
 		"uniqueName": "Love and Hope",
-                "uniques": [ "[+5 Food, +5 Production] [in all cities]" ],
+                "uniques": [ "[+5 Food, +5 Production, +3 Culture] [in all cities]" ],
                 "favoredReligion" : "Christianity", 
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Teneca-Cambria", "Avachionne","Avinca","Amita","Vismedthia","Hope","Fertilia","Loveland","Airin","Sadova","Gardefield","Marian","Rhodes","Dungarees","Langley","Bubble","Rosebelly"],
