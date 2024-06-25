@@ -1,17 +1,34 @@
+UNITS
+
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"name": "Pioneer",
+		"unitType": "Civilian",
+		"uniqueTo": "Nebesia",
+		"replaces": "Worker",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles"],
+		"cost": 30
+                "civilopediaText": [
+			{"text": "Man and woman of nations dedicated themselves to build the nation."}
+		]
+
+	},
+ {
+                "name": "Guerillas",
+		"unitType": "Sword",
+                "uniqueTo": "Nebesia"
+                "replaces": "Swordsman"
+		"movement": 4,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+
+ },
+ }
 ]
