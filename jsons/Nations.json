@@ -27,8 +27,8 @@
 		"afterPeace": "War only bring us loss and suffers. We respect our peace treaties, we hope this peace will lasts long.",
 		"tradeRequest": "We offered you some trade. May it bring goodness to both of us.",
 
-		"outerColor": [255,255,255],
-		"innerColor": [255,0,255],
+		"outerColor": [255,0,255],
+		"innerColor": [255,255,255],
 		"uniqueName": "Love and Hope",
                 "uniques": [ "[+5 Food, +5 Production, +3 Culture] [in all cities]" ],
                 "favoredReligion" : "Christianity", 
