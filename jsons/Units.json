@@ -39,7 +39,8 @@
 "uniqueTo": "Nebesia",
 "replaces": "Great Artist",
 "movement": 1,
-"uniques": [ "Great Person - [Culture]", "Unbuildable", "Uncapturable", "Empire enters a [12]-turn Golden Age <by consuming this unit>", "[+50]% Strength bonus for [Military] units within [3] tiles", "All adjacent units heal [+10] HP when healing", "[+30] HP when healing", "Can instantly construct a [Landmark] improvement <by consuming this unit>"
+"uniques": [ "Great Person - [Culture]", "Unbuildable", "Uncapturable", "Empire enters a [12]-turn Golden Age <by consuming this unit>", "[+50]% Strength bonus for [Military] units within [3] tiles", "All adjacent units heal [+10] HP when healing", "[+30] HP when healing", "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+	"Can generate a large amount of culture"
 ]
  "civilopediaText": [
 			{"text": "Choosen one by the Queens and Royal Councils. They were blessed by charm, spreading comforting aura around. Their dungarees sparks in magic. They will always in memories of Nebesians."}
