@@ -5,7 +5,7 @@
 		"uniqueTo": "Nebesia",
 		"replaces": "Worker",
 		"movement": 3,
-		"uniques": [ "Can build [Land] improvements on tiles", "Automation is primary action" ], 
+		"uniques": [ "Can build [Land] improvements on tiles", "Automation is a primary action" ], 
 		"cost": 20,
      "civilopediaText": [
 			{"text": "Man and woman of nations dedicated themselves to build their homeland."}
@@ -44,7 +44,7 @@
 "movement": 2,
 "cost": 100,
 "uniques": [ "[+1] Sight", "[+30]% Strength <when fighting in [Hill] tiles>" ],
-"promotions": ["Indirect Fire", "Extended Range", "Medic I"],
+"promotions": ["Indirect Fire", "Extended Range", "Medic"],
 "sounds": "shot",
  "civilopediaText": [
 			{"text": " Dungarees-wearing regiments, serve as highly trained volunteer of the nations. "}
