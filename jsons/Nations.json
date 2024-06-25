@@ -27,8 +27,10 @@
 		"afterPeace": "War only bring us loss and suffers. We respect our peace treaties, we hope this peace will lasts long.",
 		"tradeRequest": "We offered you some trade. May it bring goodness to both of us.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,255],
+		"uniqueName": "Love and Hope",
+                "uniques": [ "[+5 Food, +5 Production, +3 Cultures, +3 Happiness] [in all cities]" ],
                 "favoredReligion" : "Christianity", 
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Teneca-Cambria", "Avachionne","Avinca","Amita","Vismedthia","Hope","Fertilia","Loveland","Airin","Sadova","Gardefield","Marian","Rhodes","Dungarees","Langley","Bubble","Rosebelly"],
