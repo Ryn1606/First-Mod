@@ -25,7 +25,7 @@
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
-     "uniques": [ "Can move after attacking", "[+50]% Strength <vs [Wounded] units>","Invisible to non-adjacent units","[+33]% Strength <when fighting in [Forest] tiles" ],
+     "uniques": [ "Can move after attacking", "[+50]% Strength <vs [Wounded] units>","Invisible to non-adjacent units","[+33]% Strength <when fighting in [Forest] tiles>" ],
      "promotions": ["Drill I", "March"],
 		"attackSound": "metalhit",
      "civilopediaText": [
