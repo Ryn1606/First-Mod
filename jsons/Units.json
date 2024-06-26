@@ -44,8 +44,9 @@
 "rangedStrength": 50,
 "movement": 2,
 "cost": 120,
+"hurryCostModifier":5,
 "uniques": [ "[+1] Sight", "[+30]% Strength <when fighting in [Hill] tiles>" ],
-"promotions": ["Indirect Fire", "Extended Range", "Medic"],
+"promotions": ["Indirect Fire", "Medic"],
 "sounds": "shot",
  "civilopediaText": [
 			{"text": " Dungarees-wearing regiments, serve as highly trained volunteer of the nations on the era of global conflict. "}
