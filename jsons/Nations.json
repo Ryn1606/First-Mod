@@ -30,9 +30,10 @@
 		"outerColor": [255,0,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Love and Hope",
-                "uniques": [ "[+5 Food, +5 Production, +3 Culture] [in all cities]","[+25]% Golden Age length","<upon discovering [Biology]> [+30]% growth [in all cities]" ],
+                "uniques": [ "[+5 Food, +5 Production, +3 Culture] [in all cities]","[+25]% Golden Age length" ],
                 "favoredReligion" : "Christianity", 
-		"cities": ["Teneca-Cambria", "Avachionne","Avinca","Amita","Vismedthia","Hope","Fertilia","Loveland","Airin","Sadova","Gardefield","Marian","Rhodes","Dungarees","Langley","Bubble","Rosebelly"],
+		"cities": ["Teneca-Cambria", "Avachionne","Avinca","Amita","Vismedthia","Hope","Fertilia","Loveland","Airin","Sadova","Gardefield","Marian","Rhodes","Dungarees","Langley","Bubble","Rosebelly"
+		,"Miracles","Milana","Ecstacia","Hermosa"],
                 "spyNames" : ["David","Naomi","Aaron","Mildred",
                "Elijah","Imogen","Terra","Ruther","Zofia","Trisha"]
 	}
