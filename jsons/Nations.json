@@ -3,7 +3,7 @@
 		"name": "Nebesia",
 		"leaderName": "Naomi & Imogen The Magnificent",
 		"adjective": ["Nebesians"],
-		"startBias": [,"Avoid [Snow]","Forest","Hill"],
+		"startBias": ["Avoid [Snow]","Coast","Hill"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "All hail twin queen, Naomi, and Imogen The Magnificent! Mother of all Nebesians.",
