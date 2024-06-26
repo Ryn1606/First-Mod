@@ -37,6 +37,7 @@
 "name": "Dungarees Legion",
 "unitType": "Gunpowder",
 "uniqueTo": "Nebesia",
+"requiredTech": "Replaceable Parts",
 "replaces": "Great War Infantry",
 "upgradeTo": "Infantry",
 "strength": 65,
@@ -47,7 +48,7 @@
 "promotions": ["Indirect Fire", "Extended Range", "Medic"],
 "sounds": "shot",
  "civilopediaText": [
-			{"text": " Dungarees-wearing regiments, serve as highly trained volunteer of the nations. "}
+			{"text": " Dungarees-wearing regiments, serve as highly trained volunteer of the nations on the era of global conflict. "}
 		]
 
 }
